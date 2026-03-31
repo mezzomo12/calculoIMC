@@ -30,7 +30,7 @@ public class IMC {
     }
 
     static double lerAltura() {
-        System.out.print("Altura (m, ex: 1.75): ");
+        System.out.print("Altura (m, ex: 1,75): ");
         return lerTeclado.nextDouble();
     }
 
